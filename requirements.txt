@@ -1,0 +1,13 @@
+cfgrib
+eccodes
+ecmwflibs
+xarray
+cdsapi
+pygeos
+shapely 
+cartopy 
+--no-binary shapely 
+--no-binary cartopy
+scipy 
+netcdf4
+nvitop
